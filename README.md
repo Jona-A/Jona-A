@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Jona-A
-- 👀 I’m interested in: Information Security Management.
-- 🌱 I’m currently learning: C, Java, MySQL and networking related stuff.
-- 💞️ I’m looking to collaborate on Innovative Developement.
+- 👋 Hi, I’m @Jona!
+- 👀 I’m interested in: The endless depth of information ahead.
+- 🌱 I’m currently learning and working with: Java, SQL, UML & Scrum. 
+- 💞️ I’m looking to collaborate on fun and complex challenges & problems.
 - 📫 How to reach me: ...
-- 😄 Pronouns: Man.
+- 😄 Pronouns: He/Him (Male).
 - ⚡ Fun fact: Master vision and mission driven.
 
 <!---
