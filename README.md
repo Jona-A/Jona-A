@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun and complex challenges & problems.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him (Male).
-- ⚡ Fun fact: Master vision and mission driven.
+- ⚡ Discipline over comfort, mission over mood.
 
 <!---
 Jona-A/Jona-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
