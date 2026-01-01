@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jona!
-- 📫 How to reach me: ...
+- 📫: https://www.portfolio-jv.nl/
 - 😄 Pronouns: He/Him (Male).
 - ⚡ Discipline over comfort, mission over mood.
 
